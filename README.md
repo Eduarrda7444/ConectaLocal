@@ -15,6 +15,15 @@ Aplicativo que conecta pequenos negócios locais com clientes, fornecedores e pa
 - **Ofertas e Promoções Personalizadas:**  
   Os donos podem criar e gerenciar ofertas e promoções, substituindo panfletos impressos por atualizações digitais.
 
+## Equipe
+
+- **Nome do Líder de Projeto** – Antonio Mateus (teuosx)
+- **Nome do Desenvolvedor Backend** – Eduarda Noronha (Eduarrda7444)
+- **Nome do Desenvolvedor Backend** – Murilo Alves
+- **Nome do Desenvolvedor Backend** – Emilly Vitoria (emillyfernb)
+- **Nome do Desenvolvedor Frontend e Designer** – Julio Cesar
+- **Nome do Desenvolvedor Frontend e Designer** – Daniel Eduardo
+
 ## Repositório
 
 Clone o repositório:
