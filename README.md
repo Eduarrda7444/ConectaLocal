@@ -17,12 +17,12 @@ Aplicativo que conecta pequenos negócios locais com clientes, fornecedores e pa
 
 ## Equipe
 
-- **Nome do Líder de Projeto** – Antonio Mateus (teuosx)
-- **Nome do Desenvolvedor Backend** – Eduarda Noronha (Eduarrda7444)
-- **Nome do Desenvolvedor Backend** – Murilo Alves
-- **Nome do Desenvolvedor Backend** – Emilly Vitoria (emillyfernb)
-- **Nome do Desenvolvedor Frontend e Designer** – Julio Cesar
-- **Nome do Desenvolvedor Frontend e Designer** – Daniel Eduardo
+- **Líder de Projeto** – Antonio Mateus (teuosx)
+- **Desenvolvedor Backend** – Eduarda Noronha (Eduarrda7444)
+- **Desenvolvedor Backend** – Murilo Alves
+- **Desenvolvedor Backend** – Emilly Vitoria (emillyfernb)
+- **Desenvolvedor Frontend e Designer** – Julio Cesar
+- **Desenvolvedor Frontend e Designer** – Daniel Eduardo
 
 ## Repositório
 
