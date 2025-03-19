@@ -15,21 +15,6 @@ Aplicativo que conecta pequenos negócios locais com clientes, fornecedores e pa
 - **Ofertas e Promoções Personalizadas:**  
   Os donos podem criar e gerenciar ofertas e promoções, substituindo panfletos impressos por atualizações digitais.
 
-- **Sistema de Avaliações e Comentários:**  
-  Clientes deixam feedback e avaliações, e os donos podem responder, fortalecendo a reputação online.
-
-- **Calendário de Eventos e Atividades:**  
-  Negócios listam eventos (feiras, lançamentos, workshops) para engajar a comunidade e aumentar a participação.
-
-- **Sistema de Mensagens e Notificações:**  
-  Comunicação direta entre clientes e negócios com mensagens instantâneas e notificações de ofertas e atualizações.
-
-- **Recursos para Networking:**  
-  Facilita a conexão entre negócios para parcerias e colaborações com base em interesses comuns.
-
-- **Painel de Análise para Negócios:**  
-  Ferramentas para monitorar campanhas, ofertas e interações com métricas de visualizações, cliques e feedback.
-
 ## Repositório
 
 Clone o repositório:
