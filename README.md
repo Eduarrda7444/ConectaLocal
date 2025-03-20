@@ -19,7 +19,7 @@ Aplicativo que conecta pequenos negócios locais com clientes, fornecedores e pa
 
 - **Líder de Projeto** – Antonio Mateus (teuosx)
 - **Desenvolvedor Backend** – Eduarda Noronha (Eduarrda7444)
-- **Desenvolvedor Backend** – Murilo Alves
+- **Desenvolvedor Backend** – Murilo Alves (Muril08)
 - **Desenvolvedor Backend** – Emilly Vitoria (emillyfernb)
 - **Desenvolvedor Frontend e Designer** – Julio Cesar
 - **Desenvolvedor Frontend e Designer** – Daniel Eduardo
